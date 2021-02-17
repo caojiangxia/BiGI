@@ -6,8 +6,7 @@ The source code of BiGI: ”Bipartite Graph Embedding via Mutual Information Max
 
 ```
 @inproceedings{bigi2021,
-  title={Bipartite Graph Embedding via Mutual Information
-Maximization},
+  title={Bipartite Graph Embedding via Mutual Information Maximization},
   author={Cao*, Jiangxia and Lin*, Xixun and Guo, Shu and Liu, Luchen and Liu, Tingwen and Wang, Bin},
   booktitle={ACM International Conference on Web Search and Data Mining (WSDM)},
   year={2021}
