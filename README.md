@@ -1,7 +1,7 @@
 BiGI
 ===
 
-The source code of BiGI: ”Bipartite Graph Embedding via Mutual Information Maximization" which accepted in WSDM 2021 by Jiangxia Cao*, Xixun Lin*, Shu Guo, Luchen Liu, Tingwen Liu, Bin Wang (* means equal contribution).
+The source code is for the paper: ”Bipartite Graph Embedding via Mutual Information Maximization" accepted in WSDM 2021 by Jiangxia Cao*, Xixun Lin*, Shu Guo, Luchen Liu, Tingwen Liu, Bin Wang (* means equal contribution).
 
 
 ```
