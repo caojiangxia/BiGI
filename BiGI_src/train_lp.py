@@ -50,7 +50,7 @@ parser.add_argument('--struct_rate', type=float, default=0.0001)
 parser.add_argument('--early_stop', type=int, default=20)
 # train part
 parser.add_argument('--num_epoch', type=int, default=100, help='Number of total training epochs.')
-parser.add_argument('--min_neighbor', type=int, default=5, help='Number of max neighbor per node')
+parser.add_argument('--min_neighbor', type=int, default=100, help='Number of max neighbor per node')
 parser.add_argument('--batch_size', type=int, default=128, help='Training batch size.')
 parser.add_argument('--log_step', type=int, default=200, help='Print log every k steps.')
 parser.add_argument('--log', type=str, default='logs.txt', help='Write training log to file.')
